@@ -3,6 +3,7 @@
 #### I`m a Fullstack Student 
 
 ### Learning Skills
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+
+- 🌍 Actually i`m working in **Eclipse RP**
+
